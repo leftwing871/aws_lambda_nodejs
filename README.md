@@ -27,4 +27,5 @@ curl -X "DELETE" $INVOKE_URL/items/abcdef234
 curl -X "DELETE" $INVOKE_URL/items/abcdef234
 
 
+Build your first CRUD API in 45 minutes or less!
 Reference: https://catalog.us-east-1.prod.workshops.aws/workshops/2c8321cb-812c-45a9-927d-206eea3a500f/en-US
